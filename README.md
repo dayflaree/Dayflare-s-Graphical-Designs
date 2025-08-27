@@ -9,11 +9,13 @@ This is the master repository for all my graphical designs that I've made over t
 - Minerva
 - MvM
 - Ordinance
+- Paragon
 - RavenholmRP
 - Retold
 - Silent Hill Dark
 - Synapse
 - Terminal Networks
+- The Nice Cinemas
 - Transcend
 - Vault
 - AlienRP
